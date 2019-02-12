@@ -1,4 +1,3 @@
-
 ## Requirements
 * GDAL
 * tqdm
@@ -6,8 +5,6 @@
 * Pillow
 * OpenCV
 * MulticoreTSNE
-* PyTorch
-* TorchVision
 * colorcorrect
 
 ## Usage
