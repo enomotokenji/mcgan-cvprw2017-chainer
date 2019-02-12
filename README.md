@@ -1,0 +1,1 @@
+# McGAN-CVPRW2017-Chainer
